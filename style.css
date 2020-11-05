@@ -1,0 +1,25 @@
+body {
+  background-color: GoldenRod;
+text-align: center;
+font-family: 'Courier Prime', monospace;
+font-style: regular;
+}
+
+h1{
+  color:  DarkSlateGrey;
+}
+
+/* unvisited link */
+a:link {
+  color: SlateGrey;
+}
+
+/* visited link */
+a:visited {
+  color: DarkSlateGrey;
+}
+
+p{
+  margin-left: 15%;
+  margin-right: 15%;
+}
